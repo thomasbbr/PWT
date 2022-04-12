@@ -41,7 +41,9 @@ h3 :hover{
     width: 1050px;
 }
 
+
 .PWTHeading{
+    
     color: black;
 }
 .Title{
@@ -51,11 +53,13 @@ h3 :hover{
 .playstation{
     float: left;
     width: 20%;
+    padding-left: 350px;
 }
 
 .nintendo{
     float: right;
     width: 20%;
+    padding-right: 350px;
 }
 
 .ToBuyGamesh3{
