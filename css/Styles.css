@@ -53,22 +53,14 @@ h3 :hover{
     color: black;
 }
 
-.Playstationh3{
-    display:inline-block;
-    height: 30px;
-    background-color:#FFCE45;
-    color:black;
-    border-radius: 10px;
-    width: 200px;
+.playstation{
+    float: left;
+    width: 50%;
 }
 
-.NintendoSwitchh3{
-    display:inline-block;
-    height: 30px;
-    background-color:#FFCE45;
-    color:black;
-    border-radius: 10px;
-    width: 200px;
+.nintendo{
+    float: right;
+    width: 50%;
 }
 
 .ToBuyGamesh3{
