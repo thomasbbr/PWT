@@ -1,0 +1,109 @@
+body {
+
+    color: #FFCE45;
+    background-image: url(../img/PWTbg.jpeg);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.div1{
+    background-color: #FFCE45;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 100%;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-bottom: 100px;
+}
+
+
+hr{
+    border-style: dotted none none;
+    border-color: #FFCE45;
+    border-width: 7px;
+    width: 10%;
+}
+
+
+h3 :hover{
+    background-color: #FF8C32;
+}
+
+.PSNS{
+    border: none;
+    height: 5px;
+    width: 35%;
+    
+}
+
+.Heading{
+    display:inline-block;
+    height: 250px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 30px;
+    width: 1050px;
+}
+
+.PWTHeading{
+    color: black;
+}
+.Title{
+    color: black;
+}
+
+.Playstationh3{
+    display:inline-block;
+    height: 30px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.NintendoSwitchh3{
+    display:inline-block;
+    height: 30px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.ToBuyGamesh3{
+    display:inline-block;
+    height: 25px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 10px;
+    width: 150px;
+}
+
+.CustomersListh3{
+    display:inline-block;
+    height: 25px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 10px;
+    width: 150px;
+}
+
+.FacebookPage{
+    display:inline-block;
+    height: 20px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 10px;
+    width: 150px;
+}
+
+.FacebookMessenger{
+    display:inline-block;
+    height: 20px;
+    background-color:#FFCE45;
+    color:black;
+    border-radius: 10px;
+    width: 150px;
+}
+
