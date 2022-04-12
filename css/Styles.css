@@ -30,12 +30,7 @@ h3 :hover{
     background-color: #FF8C32;
 }
 
-.PSNS{
-    border: none;
-    height: 5px;
-    width: 35%;
-    
-}
+
 
 .Heading{
     display:inline-block;
@@ -55,12 +50,12 @@ h3 :hover{
 
 .playstation{
     float: left;
-    width: 50%;
+    width: 20%;
 }
 
 .nintendo{
     float: right;
-    width: 50%;
+    width: 20%;
 }
 
 .ToBuyGamesh3{
