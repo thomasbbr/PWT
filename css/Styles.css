@@ -5,20 +5,33 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin: 0px;
 }
 
-.div1{
+
+
+.container{
     background-color: #FFCE45;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    height: 130px;
     width: 100%;
     border-bottom-left-radius: 70px;
     border-bottom-right-radius: 70px;
     margin-bottom: 70px;
+    margin-top: 0px;
+
 }
+.divlogo{
+    position: absolute;
+    top: 18px;
+    left: 350px;
+}
+.PWT{
+    position:absolute;
+    top: 35px;
+    right: 300px;
+    color: black;
+}
+
 
 
 hr{
@@ -45,10 +58,7 @@ h3 :hover{
 }
 
 
-.PWTHeading{
-    
-    color: black;
-}
+
 .Title{
     color: black;
 }
