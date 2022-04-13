@@ -22,13 +22,13 @@ body {
 }
 .divlogo{
     position: absolute;
-    top: 18px;
-    left: 350px;
+    top: 3%;
+    left: 30%;
 }
 .PWT{
     position:absolute;
-    top: 35px;
-    right: 300px;
+    top: 4%;
+    right: 25%;
     color: black;
 }
 
