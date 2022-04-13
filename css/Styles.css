@@ -53,13 +53,13 @@ h3 :hover{
 .playstation{
     float: left;
     width: 20%;
-    padding-left: 350px;
+    padding-left: 300px;
 }
 
 .nintendo{
     float: right;
     width: 20%;
-    padding-right: 350px;
+    padding-right: 300px;
 }
 
 .ToBuyGamesh3{
