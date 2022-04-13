@@ -3,6 +3,7 @@ body {
     color: #FFCE45;
     background-image: url(../img/PWTbg.jpeg);
     background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     margin-top: 0px;
     margin-left: 0px;
