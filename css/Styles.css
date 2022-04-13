@@ -2,6 +2,8 @@ body {
 
     color: #FFCE45;
     background-image: url(../img/PWTbg.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
